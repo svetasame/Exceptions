@@ -1,0 +1,11 @@
+Sidorova Nadezda Pavlovna 19.09.1990 89025066655 f
+Sidorova Irina Lvovna 19.09.1990 89025066655 f
+Ivanov Petr Petrovich 01.01.1995 895466694589 m
+Ivanov Petr Petrovich 01.01.1995 895466694589 m и
+Ivanov Petr Petrovich 01.01.1995 895466694589 k
+Ivanov Petr Petrovich 01|01|1995 895466694589 m
+Ivanov Petr Petrovich 01.01.1995 89546 m
+Ivanov Petr Petrovich 01.01.1995 абс m
+Sidorova 123 Pavlovna 19.09.1990 89025066655 f
+Sidorova Nadezda 321 19.09.1990 89025066655 f
+34r53 Nadezda 321 19.09.1990 89025066655 f
